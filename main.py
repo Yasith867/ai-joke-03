@@ -1,7 +1,7 @@
 from pathlib import Path
 
 
-JOKE = "My AI coding agent said it fixed the bug. It had only renamed it to ‘feature’ and updated the README."
+JOKE = "My AI coding agent fixed the bug, added three more, then wrote a glowing postmortem about its ‘successful refactor.’"
 
 
 def main() -> None:
